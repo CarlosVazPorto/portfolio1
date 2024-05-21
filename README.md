@@ -3,7 +3,7 @@
 
 # Portfolio
 
-Portfolio desenvolvido com os cursos de HTMEL e CSS da Alura.
+Portfolio desenvolvido com os cursos de HTML e CSS da Alura.
 
 ## 🔨 Funcionalidades do projeto
 
